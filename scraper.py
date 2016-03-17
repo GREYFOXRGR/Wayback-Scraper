@@ -51,7 +51,7 @@ print "Parsing results...\n"
 
 # Eliminate any issues with Unicode chars.
 try:
-    data = result.read().encode("ascii", "ignore")
+    data = result.read().decode("ascii", "ignore")
 except:
     print "No archived pages were found. =(\n"
     exit()
