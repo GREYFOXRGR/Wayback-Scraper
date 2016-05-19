@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+#  Hi Nolacon! =D
+#
 #  Wayback Scraper
 #
 #  Description:
