@@ -7,6 +7,6 @@ python scraper.py [sub.]domain.tld
 ### Examples
 ```
 python scraper.py kali.org
-python scraper.py www.bypro.xyz
+python scraper.py www.whoturgled.com
 python scraper.py you.get.the.point
 ```
